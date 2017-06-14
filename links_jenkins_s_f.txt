@@ -4,7 +4,6 @@ http://www8.hp.com/in/en/software-solutions/asset/software-asset-viewer.html?ass
 
 https://www.itcentralstation.com/products/comparisons/hpe-fortify-on-demand_vs_sonarqube
 
-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 ----
 
 http://stackoverflow.com/questions/13051974/how-does-fortify-software-work
